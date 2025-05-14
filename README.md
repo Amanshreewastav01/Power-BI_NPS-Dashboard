@@ -60,7 +60,7 @@ The dashboard is divided into **three main pages**:
 
 | File                         | Description                         |
 |------------------------------|-------------------------------------|
-| `https://github.com/Amanshreewastav01/Power-BI_NPS-Dashboard/blob/main/All%20India_MotorBike_NPS.pbix` | Final dataset (20,160 rows)     |
+| `NPS_Motorcycle_Final_20160.csv` | Final dataset (20,160 rows)     |
 | `Power-BI_NPS-Dashboard.pbix`    | Power BI dashboard file         |
 | `README.md`                      | Project documentation (this file) |
 
