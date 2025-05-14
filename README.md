@@ -70,12 +70,13 @@ The dashboard is divided into **three main pages**:
 
 📌 Place screenshots in an `images/` folder in the root of the repository.
 
-```text
-Power-BI_NPS-Dashboard/
-├── images/
-│   ├── ![Image](https://github.com/user-attachments/assets/4b1c73e1-60be-4b44-9c6e-0bae98f8c538)
-│   ├── ![Image](https://github.com/user-attachments/assets/2fe583f0-bcf6-4af4-a3df-568644c5a4bb)
-│   ├── ![Image](https://github.com/user-attachments/assets/3ab16bcd-5bb1-4df7-b5fb-1cbd914ee6cb)
-├── Power-BI_NPS-Dashboard.pbix
-├── NPS_Motorcycle_Final_20160.csv
-└── README.md
+## 🖼 Dashboard Screenshots
+
+### 1️⃣ Guidelines Page  
+![Guidelines](https://github.com/user-attachments/assets/4b1c73e1-60be-4b44-9c6e-0bae98f8c538)
+
+### 2️⃣ VCS Page  
+![VCS](https://github.com/user-attachments/assets/2fe583f0-bcf6-4af4-a3df-568644c5a4bb)
+
+### 3️⃣ Tables & Personalize Page  
+![Tables](https://github.com/user-attachments/assets/3ab16bcd-5bb1-4df7-b5fb-1cbd914ee6cb)
