@@ -8,7 +8,7 @@ This repository contains a Power BI dashboard that analyzes **Net Promoter Score
 
 The dashboard is divided into **three main pages**:
 
-### 1️⃣ Guidelines  
+### 1️⃣ Information  
 - Overview of the project scope and data structure  
 - Explanation of NPS & NP% calculation logic  
 
@@ -68,7 +68,7 @@ The dashboard is divided into **three main pages**:
 
 ## 🖼 Dashboard Screenshots
 
-### 1️⃣ Guidelines Page  
+### 1️⃣ Information Page  
 ![Guidelines](https://github.com/user-attachments/assets/4b1c73e1-60be-4b44-9c6e-0bae98f8c538)
 
 ### 2️⃣ VCS Page  
