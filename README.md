@@ -73,7 +73,8 @@ The dashboard is divided into **three main pages**:
 ```text
 Power-BI_NPS-Dashboard/
 ├── images/
-│   ├── guidelines_page.png
+│   ├── ![image](https://github.com/user-attachments/assets/20aa19f4-db47-41fc-b9c7-78e8d6e0cd4f).png
+
 │   ├── vcs_page.png
 │   ├── tables_page.png![repository-open-graph-template](https://github.com/user-attachments/assets/ddcec4f8-b10b-4303-b447-1ea9cdae807a)
 
