@@ -28,7 +28,7 @@ The dashboard is divided into **three main pages**:
 
 ### 🎯 Net Promoter Score (NPS)
 
-**Formula:**
+**NPS = ((Promoters - Detractors) / (Promoters + Passives + Detractors)) * 100:**
 
 
 | Rating Range | Category  |
@@ -41,7 +41,7 @@ The dashboard is divided into **three main pages**:
 
 ### 🔢 NP% (Negative Percentage)
 
-**Formula:**
+**NP% = ((Passives + Detractors) / (Promoters + Passives + Detractors)) * 100:**
 
 
 ---
@@ -75,7 +75,8 @@ Power-BI_NPS-Dashboard/
 ├── images/
 │   ├── guidelines_page.png
 │   ├── vcs_page.png
-│   ├── tables_page.png
+│   ├── tables_page.png![repository-open-graph-template](https://github.com/user-attachments/assets/ddcec4f8-b10b-4303-b447-1ea9cdae807a)
+
 ├── Power-BI_NPS-Dashboard.pbix
 ├── NPS_Motorcycle_Final_20160.csv
 └── README.md
