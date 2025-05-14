@@ -66,10 +66,6 @@ The dashboard is divided into **three main pages**:
 
 ---
 
-## 🖼 Screenshot Previews
-
-📌 Place screenshots in an `images/` folder in the root of the repository.
-
 ## 🖼 Dashboard Screenshots
 
 ### 1️⃣ Guidelines Page  
