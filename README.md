@@ -1,4 +1,4 @@
-# 📊 Power BI NPS Dashboard
+# 📊 Net Promoter Score (NPS) Dashboard – Power BI
 
 This repository contains a Power BI dashboard that analyzes **Net Promoter Score (NPS)** performance for India's top motorcycle companies, covering data from **April 2024 to March 2025**.
 
